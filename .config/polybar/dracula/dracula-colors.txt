@@ -1,0 +1,37 @@
+bg #282a36
+fg #f8f8f2
+
+terminal colors
+1 #282a36
+2 #ff5555
+3 #50fa7b
+4 #f1fa8c
+5 #6272a4
+6 #bd93f9
+7 #8be9fd
+8 #f8f8f2
+1 #44475a
+2 #ff5555
+3 #50fa7b
+4 #f1fa8c
+5 #6272a4
+6 #bd93f9
+7 #8be9fd
+8 #f8f8f2
+
+9 #07050C
+10 #E29E14
+11 #EEE018
+12 #C1AB49
+13 #2B34AB
+14 #BA5BA6
+15 #499DA4
+16 #e1d2cf
+17 #9d9390
+18 #E29E14
+19 #EEE018
+20 #C1AB49
+21 #2B34AB
+22 #BA5BA6
+23 #499DA4
+24 #e1d2cf
